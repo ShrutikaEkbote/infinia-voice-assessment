@@ -1,0 +1,6 @@
+coqui-tts
+librosa
+soundfile
+numpy
+torch
+torchaudio
