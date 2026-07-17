@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "type": "greeting",
+        "text": "Hello, welcome to Infinia."
+    },
+    {
+        "id": 2,
+        "type": "question",
+        "text": "How may I help you today?"
+    },
+    {
+        "id": 3,
+        "type": "numbers",
+        "text": "Your payment of two thousand four hundred fifty dollars has been completed."
+    },
+    {
+        "id": 4,
+        "type": "date",
+        "text": "Your appointment is scheduled for July eighteenth at three forty-five PM."
+    },
+    {
+        "id": 5,
+        "type": "paragraph",
+        "text": "Thank you for contacting our support team. We have received your request and one of our specialists will get back to you shortly."
+    }
+]
